@@ -1,0 +1,13 @@
+_site
+.sass-cache
+.jekyll-metadata
+vendor
+ vendor
+_site/*
+_theme_packages/*
+_tmp/*
+Thumbs.db
+.DS_Store
+.rbenv-version
+.rvmrc
+.idea/

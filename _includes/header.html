@@ -1,0 +1,19 @@
+<header class="site-header">
+
+  <div class="wrapper">
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
+
+    <strong>
+    <a class="site-title" rel="author" style="color: #2a7ae2;" 
+       href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    </strong>
+  </div>
+
+  <div class="wrapper" style="font-size: 15px; color: #828282;">
+      {{ site.description | escape }}
+  </div>
+
+
+</header>

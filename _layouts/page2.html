@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+
+   {%- if page.tagline -%}
+      <strong>
+      {{ page.tagline | escape }}
+      </strong>
+   {%- endif -%}
+  </header>
+
+  <div class="post-content">
+    {%- if page.topimage -%}
+         <img src="/assets/{{ page.topimage }}" loading="lazy" alt="{{ page.title | escape }}" width="720">
+         <br>
+         <br>
+    {%- endif -%}
+    {{ content }}
+  </div>
+
+</article>
