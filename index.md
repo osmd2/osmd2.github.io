@@ -107,9 +107,9 @@ layout: default
 
    [Барахолка](https://invite.viber.com/?g=_s_vgDy91Ef1ZJGpzj5TJttpCGA417Ms){:target="_blank"}. Купля продажа всего и вся - от детских колясок и тортов до квартир и мест паркинге.
 
-   [Паркинг](){:target="_blank"}. Всё о подземном паркинге/парковке.
+   [ОСМД Паркинги](https://invite.viber.com/?g=qhOwjRVRmEU8bLLw2nebYEtL0K0D92fd){:target="_blank"}. Всё о подземном паркинге/парковке.
 
-   [Сообщество ОСМД 1-й корпус](){:target="_blank"}. Только для совладельцев 1-го корпуса.
+   [Сообщество ОСМД 1-й корпус](https://invite.viber.com/?g=JHE19Vs0eUUzx0U6imsjAoiwQB_ohoX_){:target="_blank"}. Только для совладельцев 1-го корпуса.
 
    [Сообщество ОСМД 2-й корпус](https://invite.viber.com/?g=e3N1CgA2eUWix5NyJBMNRvve23Ys2AEG){:target="_blank"}. Только для совладельцев 2-го корпуса.
 
