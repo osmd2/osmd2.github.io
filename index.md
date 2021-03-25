@@ -101,7 +101,7 @@ layout: default
 
 ## Наши Viber сообщества:
 
-   [ОСМД Французский](https://invite.viber.com/?g=JHE19Vs0eUUzx0U6imsjAoiwQB_ohoX_){:target="_blank"}. Сообщество (всех корпусов) по совершенствованию ОСМД.
+   [ОСМД Французский](https://invite.viber.com/?g2=AQBn%2FPRKs7u9MUwUtmYWHg5KBHuCmKRWMTyLa%2BTFLdg5aZs7kZiljOIilCtS%2FFiK){:target="_blank"}. Сообщество (всех корпусов) по совершенствованию ОСМД.
 
    [ОСМД 1-й корпус](https://invite.viber.com/?g=JHE19Vs0eUUzx0U6imsjAoiwQB_ohoX_){:target="_blank"}. Только для совладельцев 1-го корпуса.
 
