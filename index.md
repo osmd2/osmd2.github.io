@@ -99,7 +99,7 @@ layout: default
 
 ***
 
-## [Наши Viber сообщества](#viber-communities):
+## Наши Viber сообщества {#viber-communities}
 
    [ОСМД Французский](https://invite.viber.com/?g2=AQBn%2FPRKs7u9MUwUtmYWHg5KBHuCmKRWMTyLa%2BTFLdg5aZs7kZiljOIilCtS%2FFiK){:target="_blank"}. Сообщество (всех корпусов) по совершенствованию ОСМД.
 
@@ -113,7 +113,7 @@ layout: default
 
    [ОСМД 5-й корпус](https://invite.viber.com/?g=2SEz4Q3G3UX5_VIeM03voRn837iJbVjY){:target="_blank"}. Только для совладельцев 5-го корпуса.
 
-### Тематические сообщества:
+### Тематические сообщества
 
 [Наши дети](https://invite.viber.com/?g=nMwvdUHNB0aHOCYLLf3VPTbkgvnsbWjb){:target="_blank"}. Родители ОСМД Французский обсуждают условия для игр, отдыха и безопасности детей в нашем комплексе.
 
