@@ -13,15 +13,15 @@ layout: default
 
 Выберите один из вариантов <small>(в новом окне откроется форма для ввода данных)</small>:
 
-<h2> 
+<h3> 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfreX-dsQsUmmVY0J2Ie-w_kN0mdUmTYCpHCMXvtkK_e6tCTw/viewform" target="_blank">Я, как совладелец ОСМД Французский, <strong>хочу участвововать</strong> в подготовке общего собрания</a>.
-</h2>
+</h3>
 
 Либо:
 
-<h2>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSc0iWAqPJb4IepHTZMyOtaGfW4YomAWpclZUQD1zN2K3VLz6Q/viewform" target="_blank">Я, как совладелец ОСМД Французский, <strong>хочу получать уведомления</strong> о дате и месте общего собрания а также о материалах связанных с ним.</a>
-</h2>
+<h3>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSc0iWAqPJb4IepHTZMyOtaGfW4YomAWpclZUQD1zN2K3VLz6Q/viewform" target="_blank">Я, как совладелец ОСМД Французский, <strong>хочу получать уведомления</strong> о дате и месте общего собрания а также о материалах связанных с ним</a>.
+</h3>
 
 <br>
 <br>
