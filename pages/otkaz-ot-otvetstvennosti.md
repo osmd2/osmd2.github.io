@@ -2,7 +2,7 @@
 layout: page2
 title: Отказ от ответственности
 permalink: /otkaz-ot-otvetstvennosti/
-tagline: Отказ от ответственности
+tagline: null
 topimage: 720x200.png
 published: true
 ---
