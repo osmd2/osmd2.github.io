@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Оргкомитет ОСМД Французский
-title2: Cовладельцы жилого комплекса которые организуют Общее Собрание 
+title2: Оргкомитет ОСМД Французский который подготавливает Общее Собрание
 lang: ru
 # email: orgkomitet.osmd.fran@gmail.com
 
