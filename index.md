@@ -90,39 +90,48 @@ layout: default
 - площадь недвижимого имущества, если подсчёт итогов голосования будет проводиться исходя из площади (чем больше, тем весомее голос)
 - контактный телефон и адрес электронной почты.
 
-   <br>
-   <br>
-   <br>
-   <br>
-   <br>
-   <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-   ***
+***
 
-   <h2>Наши Viber сообщества:</h2>
+## Наши Viber сообщества:
 
-   [ОСМД Французский](https://invite.viber.com/?g2=AQBn%2FPRKs7u9MUwUtmYWHg5KBHuCmKRWMTyLa%2BTFLdg5aZs7kZiljOIilCtS%2FFiK){:target="_blank"}. Сообщество (всех корпусов) по совершенствованию ОСМД.
+   [ОСМД Французский](https://invite.viber.com/?g=JHE19Vs0eUUzx0U6imsjAoiwQB_ohoX_){:target="_blank"}. Сообщество (всех корпусов) по совершенствованию ОСМД.
 
-   [Наши дети](https://invite.viber.com/?g=nMwvdUHNB0aHOCYLLf3VPTbkgvnsbWjb){:target="_blank"}. Родители ОСМД Французский обсуждают условия для игр, отдыха и безопасности детей в нашем комплексе.
+   [ОСМД 1-й корпус](https://invite.viber.com/?g=JHE19Vs0eUUzx0U6imsjAoiwQB_ohoX_){:target="_blank"}. Только для совладельцев 1-го корпуса.
 
-   [Барахолка](https://invite.viber.com/?g=_s_vgDy91Ef1ZJGpzj5TJttpCGA417Ms){:target="_blank"}. Купля продажа всего и вся - от детских колясок и тортов до квартир и мест паркинге.
+   [ОСМД 2-й корпус](https://invite.viber.com/?g=e3N1CgA2eUWix5NyJBMNRvve23Ys2AEG){:target="_blank"}. Только для совладельцев 2-го корпуса.
 
-   [ОСМД Паркинги](https://invite.viber.com/?g=qhOwjRVRmEU8bLLw2nebYEtL0K0D92fd){:target="_blank"}. Всё о подземном паркинге/парковке.
+   [ОСМД 3-й корпус](https://invite.viber.com/?g=Icvw-L06GkUwx-LN-Vxfj0ND6YbKWEBz){:target="_blank"}. Только для совладельцев 3-го корпуса.
 
-   [Сообщество ОСМД 1-й корпус](https://invite.viber.com/?g=JHE19Vs0eUUzx0U6imsjAoiwQB_ohoX_){:target="_blank"}. Только для совладельцев 1-го корпуса.
+   [ОСМД 4-й корпус](https://invite.viber.com/?g=J3I1i38zeUXaRa_Hit7L7F3FZiyFav3b){:target="_blank"}. Только для совладельцев 4-го корпуса.
 
-   [Сообщество ОСМД 2-й корпус](https://invite.viber.com/?g=e3N1CgA2eUWix5NyJBMNRvve23Ys2AEG){:target="_blank"}. Только для совладельцев 2-го корпуса.
+   [ОСМД 5-й корпус](https://invite.viber.com/?g=2SEz4Q3G3UX5_VIeM03voRn837iJbVjY){:target="_blank"}. Только для совладельцев 5-го корпуса.
 
-   [Сообщество ОСМД 3-й корпус](https://invite.viber.com/?g=Icvw-L06GkUwx-LN-Vxfj0ND6YbKWEBz){:target="_blank"}. Только для совладельцев 3-го корпуса.
+### Тематические сообщества:
 
-   [Сообщество ОСМД 4-й корпус](){:target="_blank"}. Только для совладельцев 4-го корпуса.
-     
-   [Новости обо всем Французский ...](https://invite.viber.com/?g2=AQBbYPoHMF6YkUwfsmYUxs1iCk%2BYtQl89mn0JzoengHkuWwHlWgE5ojdQSnlaLoQ){:target="_blank"}. Болталка обо всём.
+[Наши дети](https://invite.viber.com/?g=nMwvdUHNB0aHOCYLLf3VPTbkgvnsbWjb){:target="_blank"}. Родители ОСМД Французский обсуждают условия для игр, отдыха и безопасности детей в нашем комплексе.
 
-   [Table tennis - Французский](https://docs.google.com/forms/d/e/1FAIpQLScC7GvFulDq0RRb1TlpVJDXuwwov2bOedaAg9VW_hLUEotzew/viewform){:target="_blank"}. Настольный теннис в нашем комплексе.
+[Барахолка Франц22](https://invite.viber.com/?g2=AQAIe%2FRJZdUTEU0TvU2aJx0nAyJEGH%2BGUgsIK0OZjRwy5MNBWN%2BeGP6nEkS%2BWtNk){:target="_blank"}. Купля продажа всего и вся - от детских колясок и тортов до квартир и мест паркинге.
 
-   ***
+[ОСМД Паркинги](https://invite.viber.com/?g=qhOwjRVRmEU8bLLw2nebYEtL0K0D92fd){:target="_blank"}. Всё о подземном паркинге/парковке.
 
-   [Полезные контакты](https://docs.google.com/spreadsheets/d/12an3paXchpLu1yqngw1FAnkEpEoVBnvyC62poDG_Qjk/){:target="_blank"}. Табличка содержащая контакты: от строителей-электриков-сантехников до кардиологов-гастроэнтерологов-массажистов. (Почти) все специалисты которые могут вам понадобиться. С рекоммендациями.
+[Теплообеспечение](https://invite.viber.com/?g=HU-xMjqL3Ey01kzA_e06ZRHrT50u3Vii){:target="_blank"}. Группа для изучения вопросов: теплообеспечения нашего комплекса; поставок газа; цены на газ; теплопотерь; "кочегаров"; расходов по содержанию котельных.
 
+[Greenpeace Французский](https://invite.viber.com/?g=z5uw-zMk9UtsleIT3TLO-YObfmqdx4fP){:target="_blank"}. Группа добровольцев Озеленения нашего комплекса.
+
+[Спорт и досуг Французский](https://invite.viber.com/?g=M32ytQOlE01ApL9qo-NoHow6oTqdUe1v){:target="_blank"}. Обсуждение спортивных мероприятий в комплексе, спортивного инвентаря в домах и на спортивной площадке.
+
+[Table tennis - Французский](https://docs.google.com/forms/d/e/1FAIpQLScC7GvFulDq0RRb1TlpVJDXuwwov2bOedaAg9VW_hLUEotzew/viewform){:target="_blank"}. Настольный теннис в нашем комплексе.
+
+[Новости обо всем Французский ...](https://invite.viber.com/?g2=AQBbYPoHMF6YkUwfsmYUxs1iCk%2BYtQl89mn0JzoengHkuWwHlWgE5ojdQSnlaLoQ){:target="_blank"}. Болталка обо всём.
+
+***
+
+[Полезные контакты](https://docs.google.com/spreadsheets/d/12an3paXchpLu1yqngw1FAnkEpEoVBnvyC62poDG_Qjk/){:target="_blank"}. Табличка содержащая контакты: от строителей-электриков-сантехников до кардиологов-гастроэнтерологов-массажистов. (Почти) все специалисты которые могут вам понадобиться. С рекоммендациями.
 
