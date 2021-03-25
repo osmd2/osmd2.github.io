@@ -1,6 +1,6 @@
 ---
 layout: page2
-title: TODO
+title: Отказ от ответственности
 permalink: /otkaz-ot-otvetstvennosti/
 tagline: Отказ от ответственности
 topimage: 720x200.png
