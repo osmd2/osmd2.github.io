@@ -6,16 +6,16 @@ layout: default
   <header class="post-header">
     <h1 class="post-title">{{ page.title | escape }}</h1>
 
-   {%- if page.tagline -%}
+   {%- if page.description -%}
       <strong>
-      {{ page.tagline | escape }}
+      {{ page.description | escape }}
       </strong>
    {%- endif -%}
   </header>
 
   <div class="post-content">
-    {%- if page.topimage -%}
-         <img src="/assets/{{ page.topimage }}" loading="lazy" alt="{{ page.title | escape }}" width="720">
+    {%- if page.image -%}
+         <img src="{{ page.image }}" loading="lazy" alt="{{ page.title | escape }}" width="720">
          <br>
          <br>
     {%- endif -%}
