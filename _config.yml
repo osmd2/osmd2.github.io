@@ -24,7 +24,7 @@ description: 65058 Одесса, Французский бульвар 22 кор
 #  Google search results) and in your feed.xml site description.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://orgkomitet-osmd-fran.org" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: false
 twitter_username:
 github_username:
