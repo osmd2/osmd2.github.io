@@ -2,8 +2,6 @@
 layout: page2
 title: Отказ от ответственности
 permalink: /otkaz-ot-otvetstvennosti/
-tagline: null
-topimage: 720x200.png
 published: true
 ---
 На основании действующего законодательства Украины Администрация сайта заявляет о том, что не несет никакой ответственности:
