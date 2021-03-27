@@ -1,7 +1,7 @@
 ---
 
 layout: default
-image: /android-chrome-512x512.png
+image: /android-chrome-192x192.png
 ---
 
 <img src="/assets/franz22-long-1440-text.jpg" loading="lazy" alt="{{ site.title }}" width="1440">
