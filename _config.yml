@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Оргкомитет ОСМД Французский
 title2: Оргкомитет ОСМД Французский который подготавливает Общее Собрание
+tagline: Подготавливаем Общее Собрание
 lang: ru
 # email: orgkomitet.osmd.fran@gmail.com
 
@@ -29,10 +30,34 @@ show_excerpts: false
 twitter_username:
 github_username:
 
+
+twitter:
+  card: summary
+# username: benbalter
+
+#facebook:
+#  app_id: 1234
+#  publisher: 1234
+#  admins: 1234
+
+logo: /favicon-32x32.png
+
+#social:
+#  name: Ben Balter
+#  links:
+#    - https://twitter.com/BenBalter
+#    - https://www.facebook.com/ben.balter
+#    - https://www.linkedin.com/in/BenBalter
+#    - https://github.com/benbalter
+#    - https://keybase.io/benbalter
+
+# google_site_verification
+
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
+   - jekyll-seo-tag
 #  - jekyll-feed
 
 # Exclude from processing.
