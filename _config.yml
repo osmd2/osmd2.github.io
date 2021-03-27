@@ -17,9 +17,9 @@ title: Оргкомитет ОСМД Французский
 title2: Оргкомитет ОСМД Французский который подготавливает Общее Собрание
 tagline: Подготавливаем Общее Собрание
 lang: ru
-# email: orgkomitet.osmd.fran@gmail.com
+email: orgkomitet.osmd.fran@gmail.com
 
-description: 65058 Одесса, Французский бульвар 22 корпуса 1/2/3/5.
+description: 65058 Одесса, Французский бульвар 22 корпуса 1/2/3/4/5.
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
@@ -27,29 +27,27 @@ description: 65058 Одесса, Французский бульвар 22 кор
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://orgkomitet-osmd-fran.org" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: false
-twitter_username:
-github_username:
-
-
-twitter:
-  card: summary
-# username: benbalter
-
-#facebook:
-#  app_id: 1234
-#  publisher: 1234
-#  admins: 1234
-
 logo: /favicon-200x200.png
 
-#social:
-#  name: Ben Balter
-#  links:
-#    - https://twitter.com/BenBalter
-#    - https://www.facebook.com/ben.balter
-#    - https://www.linkedin.com/in/BenBalter
-#    - https://github.com/benbalter
-#    - https://keybase.io/benbalter
+twitter_username: OSMD_Frants
+facebook_username: groups/1692908524359966
+# instagram_username
+# github_username:
+
+twitter:
+   card: summary
+   username: OSMD_Frants
+
+facebook:
+   publisher: https://www.facebook.com/groups/osmd.frantsuzskiy/ # a Facebook page URL or ID of the publishing entity
+#  app_id: 1234
+#  admins: 1234
+
+social:
+   name: Оргкомитет ОСМД Французский # If the user or organization name differs from the site's name
+   links:
+      - https://www.facebook.com/groups/osmd.frantsuzskiy
+      - https://twitter.com/OSMD_Frants
 
 # google_site_verification
 
