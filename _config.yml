@@ -29,6 +29,10 @@ url: "https://orgkomitet-osmd-fran.org" # the base hostname & protocol for your 
 show_excerpts: false
 logo: /favicon-200x200.png
 
+google_analytics: UA-193279840-1
+# google_site_verification
+
+
 twitter_username: OSMD_Frants
 facebook_username: groups/1692908524359966
 # instagram_username
@@ -48,8 +52,6 @@ social:
    links:
       - https://www.facebook.com/groups/osmd.frantsuzskiy
       - https://twitter.com/OSMD_Frants
-
-# google_site_verification
 
 # Build settings
 markdown: kramdown
