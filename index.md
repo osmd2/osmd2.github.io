@@ -15,13 +15,14 @@ image: /favicon-200x200.png
 Выберите один из вариантов <small>(в новом окне откроется форма для ввода данных)</small>:
 
 <h3> 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfreX-dsQsUmmVY0J2Ie-w_kN0mdUmTYCpHCMXvtkK_e6tCTw/viewform" target="_blank"  rel="nofollow">Я, как совладелец ОСМД Французский, <strong>хочу участвововать</strong> в подготовке общего собрания</a>.
+<a 
+href="https://docs.google.com/forms/d/e/1FAIpQLSe7KQvJayAWr_QBvgYcXXv5A5uXVxXYgdJY2My8QmOk-rCC3w/viewform" target="_blank"  rel="nofollow">Я, как совладелец ОСМД Французский, <strong>хочу участвововать</strong> в подготовке общего собрания</a>.
 </h3>
 
 Либо:
 
 <h3>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSc0iWAqPJb4IepHTZMyOtaGfW4YomAWpclZUQD1zN2K3VLz6Q/viewform" target="_blank" rel="nofollow">Я, как совладелец ОСМД Французский, <strong>хочу получать уведомления</strong> о дате и месте общего собрания а также о материалах связанных с ним</a>.
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdpaak6WxLbVmaSJ6w6FztJ3qVIRPiXqUp-5AI0XIaz6sRoKw/viewform" target="_blank" rel="nofollow">Я, как совладелец ОСМД Французский, <strong>хочу получать уведомления</strong> о дате и месте общего собрания а также о материалах связанных с ним</a>.
 </h3>
 
 <br>
