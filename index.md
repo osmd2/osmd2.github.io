@@ -18,25 +18,14 @@ image: /favicon-200x200.png
 ***
 
 ## Статьи/Новости {#articles}
-  {% assign posts = site.posts %}
-  {%- if posts.size > 0 -%}
-    <ul class="post-list">
-      {%- for post in posts -%}
-         {%- if post.show_in_list -%}
-         <li>
-           <h3 style="margin-bottom: 0px;">
-             <a class="post-link" href="{{ post.url | relative_url }}">
-               {{ post.title | escape }}
-             </a>
-           </h3>
-           {%- if post.description -%}
-             {{ post.description | escape }}<br>
-           {%- endif -%}
-         </li>
-         {%- endif -%}
-      {%- endfor -%}
-    </ul>
-  {%- endif -%}
+  {% assign posts = site.posts | where: "show_in_articles", true %}
+  {%- include list-of-posts.html -%}
+
+***
+
+## Документы {#documents}
+  {% assign posts = site.posts | where: "show_in_documents", true %}
+  {%- include list-of-posts.html -%}
 
 ***
 

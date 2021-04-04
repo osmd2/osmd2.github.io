@@ -3,7 +3,8 @@ layout: page2
 image: /assets/2021.02.22-head.png
 title: 22.02.2021 - Решение суда отменяющее избрание Климовой Е.Г. председателем ОСМД
 description: Правление ОСМД не может избирать председателя - это противозаконно
-show_in_list: true
+show_in_articles: false
+show_in_documents: true
 ---
 
 ## Суд постановил
