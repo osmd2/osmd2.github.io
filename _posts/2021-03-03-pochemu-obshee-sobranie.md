@@ -5,7 +5,7 @@ description: >-
    "Скажите, а почему после после 26.04.2017 не было проведено ни одного Общего собрания? — Мне нечего про это сказать"
 show_in_articles: true
 show_in_documents: false
-image: /assets/2021.03.03-obhsee-sobranie-head-bw.png
+image: /assets/2021-03-03-pochemu-obshee-sobranie.png
 ---
 
 ## Мне нечего про это сказать
