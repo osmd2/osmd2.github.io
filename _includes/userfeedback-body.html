@@ -1,0 +1,42 @@
+<bruit-io></bruit-io>
+<script>
+    var bruitCmp = document.querySelector('bruit-io');
+    bruitCmp.addEventListener('onReady', function () {
+      bruitCmp.start();
+    });
+    bruitCmp.config = {
+     apiKey: "76d56974-45bb-4129-9f4f-d01c66fd12d8",
+     labels: {
+       title: "Что-то здесь не так. Отправьте отзыв/feedback",
+       introduction: "Что-то пошло не так. Вы увидели ошибку/опечатку/bug. Сообщите - мы всё исправим!"
+     },
+     form: [
+       {
+         label: "ЧТО вы увидели? В чем ошибка/проблема/опечатка?",
+         type: "textarea",
+         required: true
+       },
+       {
+         label: "А что ОЖИДАЛИ увидеть?",
+         type: "textarea",
+         required: true
+       },
+       {
+         label: "ГДЕ вы это увидели? URL?",
+         type: "text",
+         id: "title"
+       },
+       {
+         label: "Ваш мейл. Иногда может понадобиться уточнить что-то",
+         type: "email",
+         required: true
+       },
+       {
+         id: "agreement",
+         type: "checkbox",
+         label: "Я согласен/согласна отправить техническую информацию в дополнение к своим ответам",
+         value: true
+       }
+     ]
+   };
+</script>
