@@ -1,0 +1,7 @@
+ul#markdown-toc {
+   margin-left: 0px;
+}
+
+ul#markdown-toc li {
+   display: block;
+}
