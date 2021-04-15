@@ -55,6 +55,10 @@ social:
 
 # Build settings
 markdown: kramdown
+kramdown:
+  auto_ids: false
+  toc_levels: "2,3,4"
+
 theme: minima
 plugins:
    - jekyll-seo-tag
