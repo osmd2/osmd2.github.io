@@ -90,6 +90,7 @@ prose:
     - 404.html
     - /_layouts
     - /_includes
+    - /_site
   metadata:
     _posts:
       - name: "layout"
@@ -101,62 +102,29 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
-          help: "Относительная ссылка на картинку вверху страницы. Например /assets/720x200.png"
+          help: "Опционально - относительная ссылка/URL этой статьи (Permanent link). Будет использована вместо ссылки/URL сгенерированной автоматически. Например /otkaz-ot-otvetstvennosti/"
       - name: "description"
         field:
           element: "text"
           label: "description"
           value: ""
-          help: "Опциональный слоган. Небольшой текст который обычно длиннее заголовока, обычно до 2х-3х строчек. Текст кратко поясняет содержимое страницы"
+          help: "Опционально - слоган. Небольшой текст который обычно длиннее заголовока, обычно до 2х-3х строчек. Текст кратко поясняет содержимое страницы"
       - name: "image"
         field:
           element: "text"
           label: "image"
           value: ""
-          help: "Относительная ссылка на картинку вверху страницы. Например /assets/720x200.png"
-    pages:
-      - name: "layout"
+          help: "Опционально - относительная ссылка на картинку вверху страницы. Например /assets/720x200.png"
+      - name: "show_in_articles"
         field:
-          element: "hidden"
-          value: "page2"
-      - name: "permalink"
+          element: "checkbox"
+          label: "Show in articles - показывать ли статью в списке СТАТЕЙ?"
+          help: "Показывать ли статью в списке СТАТЕЙ?"
+          value: false
+      - name: "show_in_documents"
         field:
-          element: "text"
-          label: "Permalink"
-          value: ""
-          help: "Относительная ссылка на эту страницу/файл. Транслитом. Пробелы заменяйте на минусы. Начинается со слэша."
-      - name: "description"
-        field:
-          element: "text"
-          label: "description"
-          value: ""
-          help: "Опциональный слоган. Небольшой текст который обычно длиннее заголовока, обычно до 2х-3х строчек. Текст кратко поясняет содержимое страницы"
-      - name: "image"
-        field:
-          element: "text"
-          label: "image"
-          value: ""
-          help: "Относительная ссылка на картинку вверху страницы. Например /assets/720x200.png"
-    docs:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page2"
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
-          help: "Относительная ссылка на эту страницу/файл. Транслитом. Пробелы заменяются на минусы. Начинается со слэша."
-      - name: "description"
-        field:
-          element: "text"
-          label: "description"
-          value: ""
-          help: "Опциональный слоган. Небольшой текст который обычно длиннее заголовока, обычно до 2х-3х строчек. Текст кратко поясняет содержимое страницы"
-      - name: "image"
-        field:
-          element: "text"
-          label: "image"
-          value: ""
-          help: "Относительная ссылка на картинку вверху страницы. Например /assets/720x200.png"
+          element: "checkbox"
+          label: "Show in documents"
+          help: "Показывать ли статью в списке ДОКУМЕНТОВ?"
+          value: false
+
