@@ -78,6 +78,8 @@ plugins:
 
 prose:
   media: 'assets'
+  rooturl: "posts"
+  siteurl: "https://osmd-franz.github.io/"
   ignore:
     - .bundle
     - _config.yml
@@ -125,6 +127,6 @@ prose:
         field:
           element: "checkbox"
           label: "Show in documents"
-          help: "Показывать ли статью в списке ДОКУМЕНТОВ на главной странице?"
+          help: "Показывать ли статью в списке ДОКУМЕНТОВ на главной странице ?"
           value: false
 
