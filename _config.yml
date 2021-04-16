@@ -108,7 +108,7 @@ prose:
           element: "text"
           label: "description"
           value: ""
-          help: "Опционально - слоган. Небольшой текст который обычно длиннее заголовока, обычно до 2х-3х строчек. Текст кратко поясняет содержимое страницы"
+          help: "Опционально - небольшой текст который длиннее заголовока, обычно до 2х-3х строчек. Текст кратко поясняет содержимое страницы. Вместе с заголовком этот текст будет показан в результатах Google Search."
       - name: "image"
         field:
           element: "text"
@@ -118,13 +118,13 @@ prose:
       - name: "show_in_articles"
         field:
           element: "checkbox"
-          label: "Show in articles - показывать ли статью в списке СТАТЕЙ?"
-          help: "Показывать ли статью в списке СТАТЕЙ?"
+          label: "Show in articles"
+          help: "Показывать ли статью в списке СТАТЕЙ на главной странице?"
           value: false
       - name: "show_in_documents"
         field:
           element: "checkbox"
           label: "Show in documents"
-          help: "Показывать ли статью в списке ДОКУМЕНТОВ?"
+          help: "Показывать ли статью в списке ДОКУМЕНТОВ на главной странице?"
           value: false
 
