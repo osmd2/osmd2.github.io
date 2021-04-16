@@ -79,7 +79,7 @@ plugins:
 prose:
   media: 'assets'
   rooturl: "_posts"
-  siteurl: "https://orgkomitet-osmd-fran.org/"
+#  siteurl: "https://orgkomitet-osmd-fran.org/"
   ignore:
     - .bundle
     - _config.yml
