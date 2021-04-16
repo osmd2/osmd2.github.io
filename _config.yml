@@ -78,7 +78,7 @@ plugins:
 
 prose:
   media: 'assets'
-  rooturl: "posts"
+  rooturl: "_posts"
   siteurl: "https://osmd-franz.github.io/"
   ignore:
     - .bundle
