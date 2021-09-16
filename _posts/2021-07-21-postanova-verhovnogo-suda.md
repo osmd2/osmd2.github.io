@@ -1,6 +1,6 @@
 ---
 layout: page2
-image: /assets/2021-07-21-postanova-verhovnogo-suda.png
+image: /assets/gerbvs.png
 title: 07.21.2021 - Решение Верховного суда о кассационной жалобе Г.Гаврика и Е.Климовой
 description: Верховный суд подтвердил - председатель ОСМД Французский нелегитимен
 show_in_articles: false
