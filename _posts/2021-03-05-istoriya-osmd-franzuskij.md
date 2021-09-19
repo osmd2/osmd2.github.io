@@ -16,7 +16,7 @@ published: true
 ## Содержание
 {:.no_toc}
 
-1. TOC
+* TOC
 {:toc}
 
 ----
