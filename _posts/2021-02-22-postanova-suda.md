@@ -2,7 +2,7 @@
 layout: page2
 image: /assets/2021-02-22-postanova-suda.png
 title: 22.02.2021 - Решение суда отменяющее избрание Е.Климовой председателем ОСМД
-description: Правление ОСМД не может избирать председателя - это незаконно
+description: Правление  ОСМД Французский не имело законного права избирать Председателя
 show_in_articles: false
 show_in_documents: true
 published: true
