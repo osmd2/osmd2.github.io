@@ -1,3 +1,10 @@
 User-agent: *
-Disallow: /
-
+Disallow: /_data/
+Disallow: /_drafts/
+Disallow: /_includes/
+Disallow: /_layouts/
+Disallow: /_plugins/
+Disallow: /_posts/
+Disallow: /_site/
+Disallow: /404.html
+Disallow: /feed.xml
