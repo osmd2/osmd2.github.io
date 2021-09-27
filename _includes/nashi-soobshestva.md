@@ -1,11 +1,11 @@
 
 ## Наши Viber сообщества {#viber-communities}
 
-[ОСМД Французский](https://invite.viber.com/?g2=AQBn%2FPRKs7u9MUwUtmYWHg5KBHuCmKRWMTyLa%2BTFLdg5aZs7kZiljOIilCtS%2FFiK){:target="_blank" rel="nofollow"}. Сообщество (всех корпусов) по совершенствованию ОСМД
+[ОСМД Французский](https://invite.viber.com/?g2=AQBn%2FPRKs7u9MUwUtmYWHg5KBHuCmKRWMTyLa%2BTFLdg5aZs7kZiljOIilCtS%2FFiK){:target="_blank" rel="nofollow"}. Сообщество (всех корпусов) по совершенствованию ОСМД.
 
 ### Тематические сообщества
 
-[Наши дети](https://invite.viber.com/?g=nMwvdUHNB0aHOCYLLf3VPTbkgvnsbWjb){:target="_blank" rel="nofollow"}. Родители ОСМД Французский обсуждают условия для игр, отдыха и безопасности детей в нашем комплексе
+[Наши дети](https://invite.viber.com/?g=nMwvdUHNB0aHOCYLLf3VPTbkgvnsbWjb){:target="_blank" rel="nofollow"}. Родители ОСМД Французский обсуждают условия для игр, отдыха и безопасности детей в нашем комплексе.
 
 [Барахолка Франц22](https://invite.viber.com/?g2=AQAIe%2FRJZdUTEU0TvU2aJx0nAyJEGH%2BGUgsIK0OZjRwy5MNBWN%2BeGP6nEkS%2BWtNk){:target="_blank"  rel="nofollow"}. Купля продажа всего и вся - от детских колясок и тортов до квартир и мест паркинге.
 
