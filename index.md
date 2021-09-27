@@ -29,6 +29,6 @@ image: /favicon-200x200.png
 
 ***
 
-{% include_relative _posts/2021-01-01-nashi-soobshestva.md %}
+{%- include nashi-soobshestva.md %}
 
 
